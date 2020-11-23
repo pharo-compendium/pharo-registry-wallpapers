@@ -1,2 +1,2 @@
 # pharo-registry-wallpapers
-A registry and Compendium plugin for easy access to wallpaper backgrounds for Pharo
+A registry for free wallpaper backgrounds for Pharo
